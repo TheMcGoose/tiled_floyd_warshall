@@ -7,12 +7,7 @@ Note, if it errors out it's because there's a negative cycle, to prove that try 
 If you want to view matricies set global_debug to True
 
 ## Requirements
-Tested with Python 3.5 (actually anaconda), should work with version of python really
-Required packages:
-    timeit (built in)
-    random (built in)
-    deepcopy (built in)
-    pprint (not built in?) pip install pprint
+Tested with Python 3.5 (actually anaconda), should work with version of python really    
 
 ## Citations
     Optimizing Graph Algorithms for Improved Cache Performance
